@@ -3,9 +3,10 @@
     "version": "1.10.15",
     "description": "DataTables for jQuery ",
     "files": [
-        "js/jquery.dataTables.js"
+        "js/jquery.dataTables.js",
+        "js/jquery.dataTables.min.js"
     ],
-    "main": "./js/jquery.dataTables.js",
+    "main": "./js/jquery.dataTables.min.js",
     "keywords": [
         "filter",
         "sort",
